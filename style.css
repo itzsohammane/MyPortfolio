@@ -1,0 +1,52 @@
+body{
+    margin: 0;
+    font-family: Arial;
+    background-color: #f4f4f4;
+}
+/* Designing Navigation Bar */
+nav{
+    background-color: #222;
+    color: white;
+    display: flex;
+    justify-content: space-between;
+    padding: 15px 30px;
+}
+
+nav ul{
+    list-style: none;
+    display: flex;
+}
+
+nav ul li{
+    margin-left: 20px;
+}
+
+nav ul li a{
+    color: white;
+    text-decoration: none;
+}
+/* Designing Header Section */
+header{
+    background-color: white;
+    text-align: center;
+    padding: 40px;
+}
+
+header img{
+    width: 120px;
+    border-radius: 50%;
+}
+/* Designing Main Content Sections */
+section{
+    margin: 20px;
+    padding: 20px;
+    background-color: white;
+    border-radius: 8px;
+}
+/* Designing Footer */
+footer{
+    background-color: #222;
+    color: white;
+    text-align: center;
+    padding: 10px 0;
+}
