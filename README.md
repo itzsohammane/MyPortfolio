@@ -17,6 +17,11 @@ The webpage presents essential personal information in an organized format, maki
 </ul>
 <br>
 <br>
+## Screenshots 
+![Website Screenshot](Website%20Screenshot/Screenshot1.jpg)
+![Website Screenshot](Website%20Screenshot/Screenshot2.jpg)
+<br>
+<br>
 ## 🛠️ Technologies Used
 <ul>
 <li> HTML5</li>
