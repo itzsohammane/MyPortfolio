@@ -17,7 +17,7 @@ The webpage presents essential personal information in an organized format, maki
 </ul>
 <br>
 <br>
-<h3>Screenshots</h3><br>
+<h3>📷 Screenshots</h3><br>
 ![Website Screenshot](Website%20Screenshot/Screenshot1.jpg) 
 <br>
 ![Website Screenshot](Website%20Screenshot/Screenshot2.jpg)
@@ -28,6 +28,11 @@ The webpage presents essential personal information in an organized format, maki
 <li> HTML5</li>
 <li> CSS </li>
 </ul>
+<br>
+<br>
+<h3>🌐 Live Demo</h3>
+<br>
+https://itzsohammane.github.io/MyPortfolio
 <br>
 <br>
 <h3>🎯 Purpose</h3>
@@ -45,7 +50,7 @@ Ideal for beginners who want to:
 <ul>
 <li> Build their first personal webpage.</li>
 <li> Understand how HTML and CSS work together.</li>
-<li> Create a portfolio base for future enhancements.<li>
+<li> Create a portfolio base for future enhancements.</li>
 </ul>
 <br>
 <br>
