@@ -32,7 +32,7 @@ The webpage presents essential personal information in an organized format, maki
 <br>
 <h3>🌐 Live Demo</h3>
 <br>
-https://itzsohammane.github.io/MyPortfolio
+https://itzsohammane.github.io/MyPortfolio/
 <br>
 <br>
 <h3>🎯 Purpose</h3>
