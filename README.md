@@ -17,19 +17,20 @@ The webpage presents essential personal information in an organized format, maki
 </ul>
 <br>
 <br>
-## Screenshots 
-![Website Screenshot](Website%20Screenshot/Screenshot1.jpg)
+<h3>Screenshots</h3><br>
+![Website Screenshot](Website%20Screenshot/Screenshot1.jpg) 
+<br>
 ![Website Screenshot](Website%20Screenshot/Screenshot2.jpg)
 <br>
 <br>
-## 🛠️ Technologies Used
+<h3>🛠️ Technologies Use</h3>
 <ul>
 <li> HTML5</li>
 <li> CSS </li>
 </ul>
 <br>
 <br>
-## 🎯 Purpose
+<h3>🎯 Purpose</h3>
 
 This project is aimed at practicing and demonstrating:
 <ul>
@@ -38,7 +39,7 @@ This project is aimed at practicing and demonstrating:
 <li> Creating a simple, user-friendly web interface.</li>
 </ul>
 <br>
-## 📌 Use Case
+<h3>📌 Use Case</h3>
 
 Ideal for beginners who want to:
 <ul>
@@ -48,7 +49,7 @@ Ideal for beginners who want to:
 </ul>
 <br>
 <br>
-## 🔮 Future Enhancements
+<h3>🔮 Future Enhancements</h3>
 <ul>
 <li> Add responsiveness for mobile devices.</li>
 <li> Include animations and transitions.</li>
@@ -58,4 +59,4 @@ Ideal for beginners who want to:
 <br>
 ---
 <br>
-## 💼 A solid first step toward building professional web development skills.
+<h3> 💼 A solid first step toward building professional web development skills.</h3>
