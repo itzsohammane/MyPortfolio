@@ -18,9 +18,9 @@ The webpage presents essential personal information in an organized format, maki
 <br>
 <br>
 <h3>📷 Screenshots</h3><br>
-![Website Screenshot](Website%20Screenshot/Screenshot1.jpg) 
+![Website Screenshot 1](./Website-Screenshot/Screenshot1.jpg) 
 <br>
-![Website Screenshot](Website%20Screenshot/Screenshot2.jpg)
+![Website Screenshot 2](./Website-Screenshot/Screenshot2.jpg)
 <br>
 <br>
 <h3>🛠️ Technologies Use</h3>
