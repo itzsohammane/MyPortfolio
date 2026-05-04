@@ -1,7 +1,7 @@
 body{
     margin: 0;
     font-family: Arial;
-    background-color: #f4f4f4;
+    background-color: grey;
 }
 /* Designing Navigation Bar */
 nav{
@@ -15,10 +15,15 @@ nav{
 nav ul{
     list-style: none;
     display: flex;
+    align-items: center;
+    cursor: pointer;
 }
 
 nav ul li{
     margin-left: 20px;
+    text-transform: uppercase;
+    font-weight: bold;
+    font-size: medium;
 }
 
 nav ul li a{
@@ -27,7 +32,7 @@ nav ul li a{
 }
 /* Designing Header Section */
 header{
-    background-color: white;
+    background-color: grey;
     text-align: center;
     padding: 40px;
 }
@@ -40,8 +45,33 @@ header img{
 section{
     margin: 20px;
     padding: 20px;
-    background-color: white;
+    background-color: darkgrey;
     border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+
+#contact a {
+    color: black;
+    text-decoration: none;
+}
+/* Designing Projects Section */
+#projects table{
+    width: 100%;
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 7px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+}
+#projects table th, #projects table td{
+    border: 2px solid black;
+    padding: 10px;
+    text-align: left;
+}
+#projects table td a{
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
 }
 /* Designing Footer */
 footer{
